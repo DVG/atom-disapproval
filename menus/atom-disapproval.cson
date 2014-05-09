@@ -1,7 +1,7 @@
 # See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
   '.overlayer':
-      'Enable atom-disapproval': 'atom-disapproval:toggle'
+    'ಠ_ಠ': 'atom-disapproval:ಠ_ಠ'
 
 'menu': [
   {
@@ -9,7 +9,7 @@
     'submenu': [
       'label': 'atom-disapproval'
       'submenu': [
-        { 'label': 'Toggle', 'command': 'atom-disapproval:toggle' }
+        { 'label': 'ಠ_ಠ', 'command': 'atom-disapproval:ಠ_ಠ' }
       ]
     ]
   }
