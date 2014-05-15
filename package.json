@@ -1,11 +1,11 @@
 {
   "name": "atom-disapproval",
   "main": "./lib/atom-disapproval",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A variety of helpers for inserting the look of disapproval",
   "activationEvents": ["atom-disapproval:ಠ_ಠ"],
   "snippets": ["disapp"],
-  "repository": "https://github.com/atom/atom-disapproval",
+  "repository": "https://github.com/dvg/atom-disapproval",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
